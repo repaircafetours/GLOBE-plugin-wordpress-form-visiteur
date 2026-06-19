@@ -1,5 +1,6 @@
-# wordpress
-Plugin wordpress d'un formulaire pour les visiteurs de l'Association Repair Café Tours
+# GLOBE-plugin-wordpress-form-visiteur
+
+Plugin WordPress d'un formulaire pour les visiteurs de l'Association Repair Café Tours
 
 ## Licence
 
